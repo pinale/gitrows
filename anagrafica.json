@@ -13,5 +13,27 @@
     "lastName": "sara",
     "email": "l.s@gmail.com",
     "gender": "Female"
+  },
+  {
+    "id": 1,
+    "firstName": "alessio",
+    "lastName": "pinato",
+    "email": "a.p@gmail.com",
+    "gender": "M",
+    "age": 47
+  },
+  {
+    "id": 2,
+    "firstName": "laura",
+    "lastName": "sara",
+    "email": "l.s@gmail.com",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "firstName": "mario",
+    "lastName": "rossi",
+    "email": "ddssds",
+    "gender": "Male"
   }
 ]
